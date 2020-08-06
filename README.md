@@ -70,6 +70,7 @@ Some ideas:
 4. Integrate with redux/rxjs/sagas etc or do a nice refactoring
 5. The new Facetime layout
 6. Implement voice recognition or video filters 🤯
+7. Fix the UI for iPhone X
 
 
 # Thanks!
